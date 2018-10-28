@@ -3,4 +3,10 @@
 
 1. my first commit
 
+<<<<<<< HEAD
 2. my second commit(demo branch fix )
+=======
+2. my second commit(demo branch)
+
+3. my third commit(demo branch two)
+>>>>>>> 7af29914ac47692d83e593f45198fa42ba28fc3d
